@@ -364,25 +364,11 @@ streamlit
 
 ---
 
-# 🔮 Future Improvements
-
-Future improvements can include:
-
-- Adding SHAP explainability for prediction reasons
-- Showing feature importance for each prediction
-- Adding career improvement recommendations
-- Adding more real-world job datasets
-- Deploying with cloud infrastructure
-- Building an AI career assistant system
-
-
----
-
 # 👨‍💻 Author
 
 **Siddique ur Rehman**
 
-Data Science Student
+Data Science 
 
 Areas of Interest:
 
