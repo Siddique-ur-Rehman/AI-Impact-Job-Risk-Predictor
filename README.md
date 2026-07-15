@@ -16,7 +16,7 @@ The trained model is deployed as an interactive **Streamlit Web Application** wh
 
 🚀 Streamlit Deployment:
 
-https://YOUR_STREAMLIT_APP_LINK
+[https://YOUR_STREAMLIT_APP_LINK](https://ai-impact-job-risk-predictor-pqmtqkq3cybpbajbsdouk5.streamlit.app/)
 
 ---
 
